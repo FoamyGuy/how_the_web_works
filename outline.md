@@ -1,16 +1,13 @@
-
-
 - A Web Introduction
     - Strategies for learning technology
         - Start small
-        - understand the basics before building on top
-        
-        
+        - understand the basics before building on top 
     - Full Stack Web Development Certificate Overview
         - [https://ce.jccc.edu/searchResults.cfm?prgID=33](https://ce.jccc.edu/searchResults.cfm?prgID=33)
     - How the Web is made
         - Servers hosting content
-        - Browsers requesting content
+        - Browsers requesting content on behalf of users
+        - bots and other software requesting content automatically
     - The Anatomy of the Web
         - basic
             - html
@@ -20,36 +17,65 @@
             - markdown
             - scss - compiled css can include variables
             - typescript - compiled javascript enforces type more aggressively
-            
+        
+        - Backend Technologies
+            - Using another programming language to generate html, css, and js
+            - Database storage
+            - PHP
+            - Node.JS
+            - Python
+        
+            - ReactJS based JSX
+            - templating languages
+            - 
+- Software Development Lifecycles
+    - Planning
+    - Defining requirements
+    - Design and prototyping
+    - Coding
+    - Testing
+    - Deployment
+    - Maintain
+    
 - Requirements Gathering
     https://thedigitalprojectmanager.com/requirements-gathering-guide/
     - define scope of the project
     - functional requirements
         - features - what does it do, inputs and outputs
         - integrations - what does it connect to.
-    - non-functional
+    - non-functional 
         - required for secondary purposes
         - ssl 
         - redundancy
         - automated tests
     
     - continual process
-- Software Development Lifecycles
-    - 
+    
 - Traditional Front-End
     - html - content
     - css - style
 - Browser and Server Context
-    - browser console
+    - browser console F12
     - embedded within page
     - node.js
 - IDE/Editors
+    - helpful tools like syntax highlighting and completion.
     - vscode
-    - 
+    - Atom text editor
 - Web File Management & URL Pathing
+    - https://www.example.com/this/specific-thing#anchor
+    - https://www.example.com/this/specific-thing?a_parameter=value123
+    - protocol
+    - subdomain
+    - domain
+    - path
+    - html anchors
     - GET parameters
+    - Valid characters and URL encoding
 - Content Management Systems
     - wordpress
+    - wix
+    - website builders
 - Introduction to version control
     - github
         - cloning
