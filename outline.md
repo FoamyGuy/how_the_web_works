@@ -9,6 +9,7 @@
             - add print statements, or logging outputs to confirm the assumptions
             - inspect very small sections at a time
             - re-check things even if you think you've already ensured their good
+        - ask questions
     - Full Stack Web Development Certificate Overview
         - [https://ce.jccc.edu/searchResults.cfm?prgID=33](https://ce.jccc.edu/searchResults.cfm?prgID=33)
     - How the Web is made
