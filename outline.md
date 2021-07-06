@@ -3,6 +3,12 @@
         - Start small
         - understand the basics before building on top
         - practice is very important
+        - typing code for yourself helps train muscle memory and gives most people a better understanding of how things work together
+        - troubleshooting is part of the process
+            - list things you assume are true
+            - add print statements, or logging outputs to confirm the assumptions
+            - inspect very small sections at a time
+            - re-check things even if you think you've already ensured their good
     - Full Stack Web Development Certificate Overview
         - [https://ce.jccc.edu/searchResults.cfm?prgID=33](https://ce.jccc.edu/searchResults.cfm?prgID=33)
     - How the Web is made
