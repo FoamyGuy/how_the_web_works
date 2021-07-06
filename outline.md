@@ -1,7 +1,8 @@
 - A Web Introduction
     - Strategies for learning technology
         - Start small
-        - understand the basics before building on top 
+        - understand the basics before building on top
+        - practice is very important
     - Full Stack Web Development Certificate Overview
         - [https://ce.jccc.edu/searchResults.cfm?prgID=33](https://ce.jccc.edu/searchResults.cfm?prgID=33)
     - How the Web is made
@@ -13,21 +14,23 @@
             - html
             - css
             - javascript
+        - frontend frameworks
+            - Bootstrap
+            - Bulma
         - higher level
             - markdown
             - scss - compiled css can include variables
             - typescript - compiled javascript enforces type more aggressively
-        
         - Backend Technologies
             - Using another programming language to generate html, css, and js
             - Database storage
             - PHP
             - Node.JS
             - Python
-        
             - ReactJS based JSX
             - templating languages
-            - 
+        - Many other technologies exist, but these are some of the most widely utilized on the web today.
+
 - Software Development Lifecycles
     - Planning
     - Defining requirements
@@ -42,7 +45,10 @@
     - define scope of the project
     - functional requirements
         - features - what does it do, inputs and outputs
-        - integrations - what does it connect to.
+        - is it static only, or dynamic content as well?
+        - does it need to store data? if so what specific types
+        - integrations - what does it connect to
+      
     - non-functional 
         - required for secondary purposes
         - ssl 
