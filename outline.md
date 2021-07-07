@@ -36,7 +36,7 @@
             - Python
             - ReactJS based JSX
             - templating languages
-        - Many other technologies exist, but these are some of the most widely utilized on the web today.
+        - These are some of the most widely utilized on the web today, but many other technologies exist 
 
 - Software Development Lifecycles
     - Planning
@@ -75,6 +75,7 @@
     - helpful tools like syntax highlighting and completion.
     - vscode
     - Atom text editor
+    - dreamweaver
 - Web File Management & URL Pathing
     - https://www.example.com/this/specific-thing#anchor
     - https://www.example.com/this/specific-thing?a_parameter=value123
