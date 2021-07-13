@@ -11,6 +11,20 @@
   src: url('../fonts/OtomanopeeOne/OtomanopeeOne-Regular.ttf')  format('truetype')
 }
 
+.serif{
+    font-family: serif ;
+}
+.sans{
+    font-family: sans-serif ;
+}
+.mono{
+    font-family: monospace;
+}
+
+.label{
+    background-color: #dddddd;
+}
+
 .zenloop{
     font-family: 'ZenLoop', sans-serif ;
 }
