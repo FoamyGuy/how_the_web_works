@@ -73,9 +73,9 @@
     - node.js
 - IDE/Editors
     - helpful tools like syntax highlighting and completion.
-    - vscode
-    - Atom text editor
-    - dreamweaver
+    - [vscode](https://code.visualstudio.com/)
+    - [Atom text editor](https://atom.io/)
+    - [dreamweaver](https://www.youtube.com/watch?v=T-oovphW0vw)
 - Web File Management & URL Pathing
     - https://www.example.com/this/specific-thing#anchor
     - https://www.example.com/this/specific-thing?a_parameter=value123
