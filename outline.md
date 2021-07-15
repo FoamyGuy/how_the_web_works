@@ -27,8 +27,8 @@
         - higher level
             - [markdown](https://www.mkdocs.org/) often used for [readme files and documentation](https://github.com/mkdocs/mkdocs)
             - [scss](https://sass-lang.com/guide) - compiled css can include variables
-            - typescript - compiled javascript enforces type more aggressively
-            - ReactJS based JSX
+            - [typescript](https://en.wikipedia.org/wiki/TypeScript) - compiled javascript enforces type more aggressively
+            - [ReactJS and JSX](https://reactjs.org/)
         - Backend Technologies
             - Using another programming language to generate html, css, and js
             - Database storage
