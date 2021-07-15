@@ -90,7 +90,7 @@
     - Valid characters and [URL encoding](https://www.w3schools.com/tags/ref_urlencode.ASP)
 - Content Management Systems
     - wordpress
-    - python Django
+    - [python Django](https://en.wikipedia.org/wiki/Django_(web_framework))
     - wix
     - website builders
 - Introduction to version control
