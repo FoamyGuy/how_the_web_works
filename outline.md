@@ -25,17 +25,17 @@
             - Bootstrap
             - Bulma
         - higher level
-            - markdown
-            - scss - compiled css can include variables
+            - [markdown](https://www.mkdocs.org/) often used for [readme files and documentation](https://github.com/mkdocs/mkdocs)
+            - [scss](https://sass-lang.com/guide) - compiled css can include variables
             - typescript - compiled javascript enforces type more aggressively
+            - ReactJS based JSX
         - Backend Technologies
             - Using another programming language to generate html, css, and js
             - Database storage
             - PHP
             - Node.JS
             - Python
-            - ReactJS based JSX
-            - templating languages
+            - templating languages like [Jinja](https://realpython.com/primer-on-jinja-templating/)
         - These are some of the most widely utilized on the web today, but many other technologies exist 
 
 - Software Development Lifecycles
@@ -67,6 +67,8 @@
 - Traditional Front-End
     - html - content
     - css - style
+    - Javascript - functionality
+    
 - Browser and Server Context
     - browser console F12
     - embedded within page
@@ -85,9 +87,10 @@
     - path
     - html anchors
     - GET parameters
-    - Valid characters and URL encoding
+    - Valid characters and [URL encoding](https://www.w3schools.com/tags/ref_urlencode.ASP)
 - Content Management Systems
     - wordpress
+    - python Django
     - wix
     - website builders
 - Introduction to version control
